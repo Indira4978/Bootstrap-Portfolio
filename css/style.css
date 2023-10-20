@@ -1,3 +1,24 @@
+body {
+    margin-bottom: 100px;
+}
+
+
+
 .container-lg {
     background-color: whitesmoke;
+}
+
+.navbar {
+    background-color: #DEC9B4;
+}
+
+.nav-item {
+    padding: 20px;
+    font-size: 2rem;
+
+}
+
+
+.jumbotron {
+    margin-top: 150px;
 }
