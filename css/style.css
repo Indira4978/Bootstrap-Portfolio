@@ -20,8 +20,8 @@ body {
 
 
 .jumbotron {
-    margin-top: 230px;
-    padding: 200px;
+    margin-top: 20%;
+    padding: 25%;
     background-image: url("./images/Bg.png");
     height: 100%;
     background-position: center;
@@ -32,7 +32,7 @@ body {
 
 
 .display-4 {
-    padding-left: 150px;
+    padding-left: 100px;
 }
 
 .lead {
@@ -99,7 +99,15 @@ body {
 }
 
 .btn {
-    position: fixed bottom;
+    /* position: fixed bottom; */
     background-color: #8C7E72;
     color: beige;
 }
+
+/* .footer {
+    display: flex;
+    align-items: center;
+    display: flex;
+  align-items: center;
+  justify-content: space-around;
+} */
