@@ -20,5 +20,21 @@ body {
 
 
 .jumbotron {
-    margin-top: 150px;
+    margin-top: 230px;
+    padding: 200px;
+    background-image: url("./images/Bg.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.display-4 {
+    padding-left: 150px;
+}
+
+.lead {
+    padding-left: 150px;
 }
