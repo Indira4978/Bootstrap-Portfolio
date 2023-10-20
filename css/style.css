@@ -38,3 +38,38 @@ body {
 .lead {
     padding-left: 150px;
 }
+
+#aboutMe {
+    margin: 10px;
+    padding: 10px;
+}
+
+
+#work {
+    margin: 20px;
+    padding: 10px;
+}
+
+
+#blankWork {
+    margin: 20px;
+    padding: 10px;
+}
+
+
+#skills {
+    margin: 10px;
+    padding: 10px;
+}
+
+
+#contactMe {
+    margin: 10px;
+    padding: 10px;
+}
+
+
+#aboutMe {
+    margin: 10px;
+    padding: 10px;
+}
