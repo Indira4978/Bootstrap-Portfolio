@@ -2,8 +2,6 @@ body {
     margin-bottom: 100px;
 }
 
-
-
 .container-lg {
     background-color: whitesmoke;
 }
@@ -18,7 +16,6 @@ body {
 
 }
 
-
 .jumbotron {
     margin-top: 20%;
     padding: 25%;
@@ -29,7 +26,6 @@ body {
     background-size: cover;
     position: relative;
 }
-
 
 .display-4 {
     padding-left: 100px;
@@ -48,22 +44,9 @@ body {
     font-size: 20px;
 }
 
-#aboutMe-content {
-    align-items: baseline;
-}
-
-
 #work {
     margin:20px;
-    padding: 10px;
-    font-size: 20px;
-
-}
-
-
-#blankWork {
-    margin: 20px;
-    padding: 10px;
+    padding: 10px;s
     font-size: 20px;
 
 }
