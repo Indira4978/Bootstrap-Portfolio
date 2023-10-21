@@ -102,11 +102,15 @@ body {
 }
 
 .btn {
-    /* position: fixed bottom; */
     background-color: #8C7E72;
     color: beige;
+
 }
 
+.btn:hover{
+    transition: box-shadow 0.3s;
+    box-shadow: 5px 5px 10px #8C7E72;
+}
 .footer {
     padding: 1.5%;
 }
