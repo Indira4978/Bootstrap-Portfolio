@@ -39,6 +39,9 @@ body {
     padding-left: 150px;
 }
 
+.blankspace {
+    padding: 1%;
+}
 #aboutMe {
     margin: 20px;
     padding: 10px;
@@ -90,7 +93,7 @@ body {
 }
 
 .card-body {
-    height: 300px;
+    height: 200px;
     background-color: #DEDBCD;
 }
 
